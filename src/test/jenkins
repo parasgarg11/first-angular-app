@@ -3,3 +3,6 @@ Add the credentials of GitHub, Go to Manage Jenkins > Manage Credentials > Selec
     using command: ssh-keygen.exe
 To check:  ls -la ~./ssh/  OR  cd ~./ssh/ > ls -la  OR  ssh  (to see the keys use: cat ~./ssh/id_rsa) 
 
+Added +++++
+Added more
+
