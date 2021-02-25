@@ -1,6 +1,7 @@
-1. Install the Angular CLI
-    `npm install -g @angular/cli`
+// Use these Commands while doind SonarQube 
+// Enter the below commands in Execute Shell
 
-2. Run `npm install`
-
-3. Run `ng serve -o`
+ls -la
+npm install  --prefix ./ -g @angular/cli
+npm install  --prefix ./
+ng build --prod
