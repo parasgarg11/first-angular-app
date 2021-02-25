@@ -1,5 +1,0 @@
-1.  Add the credentials of GitHub, Go to Manage Jenkins > Manage Credentials > Select global 
-    Now,select SSH and have to enter the Private Key (created in local directory) by
-    using command: ssh-keygen.exe
-    To check:  ls -la ~./ssh/  OR  cd ~./ssh/ > ls -la  OR  ssh  (to see the keys use: cat ~./ssh/id_rsa) 
-
