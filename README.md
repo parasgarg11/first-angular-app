@@ -20,7 +20,6 @@ to build Angular components, services, pipes, directives and more.
 ## Running the Application
 
 1. Install the Angular CLI
-
     `npm install -g @angular/cli`
 
 1. Run `npm install`
