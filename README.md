@@ -21,7 +21,5 @@ to build Angular components, services, pipes, directives and more.
 
 1. Install the Angular CLI
     `npm install -g @angular/cli`
-
-1. Run `npm install`
-
-1. Run `ng serve -o`
+2. Run `npm install`
+3. Run `ng serve -o`
