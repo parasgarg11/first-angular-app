@@ -22,3 +22,4 @@ to build Angular components, services, pipes, directives and more.
     `npm install -g @angular/cli`
 2. Run `npm install`
 3. Run `ng serve -o`
+4. EXTRA
